@@ -1,0 +1,12 @@
+H:\work\rarecarat.new\model.rarecarat\obj\Debug\net5.0\model.rarecarat.GeneratedMSBuildEditorConfig.editorconfig
+H:\work\rarecarat.new\model.rarecarat\obj\Debug\net5.0\model.rarecarat.AssemblyInfoInputs.cache
+H:\work\rarecarat.new\model.rarecarat\obj\Debug\net5.0\model.rarecarat.AssemblyInfo.cs
+H:\work\rarecarat.new\model.rarecarat\obj\Debug\net5.0\model.rarecarat.csproj.CoreCompileInputs.cache
+H:\work\rarecarat.new\model.rarecarat\bin\Debug\net5.0\model.rarecarat.deps.json
+H:\work\rarecarat.new\model.rarecarat\bin\Debug\net5.0\model.rarecarat.dll
+H:\work\rarecarat.new\model.rarecarat\bin\Debug\net5.0\ref\model.rarecarat.dll
+H:\work\rarecarat.new\model.rarecarat\bin\Debug\net5.0\model.rarecarat.pdb
+H:\work\rarecarat.new\model.rarecarat\obj\Debug\net5.0\model.rarecarat.dll
+H:\work\rarecarat.new\model.rarecarat\obj\Debug\net5.0\ref\model.rarecarat.dll
+H:\work\rarecarat.new\model.rarecarat\obj\Debug\net5.0\model.rarecarat.pdb
+H:\work\rarecarat.new\model.rarecarat\obj\Debug\net5.0\model.rarecarat.csproj.AssemblyReference.cache

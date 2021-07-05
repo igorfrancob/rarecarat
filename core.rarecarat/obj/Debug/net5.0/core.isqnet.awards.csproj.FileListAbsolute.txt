@@ -1,0 +1,15 @@
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\core.isqnet.awards.deps.json
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\core.isqnet.awards.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\ref\core.isqnet.awards.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\core.isqnet.awards.pdb
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\core.isqnet.awards.GeneratedMSBuildEditorConfig.editorconfig
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\core.isqnet.awards.AssemblyInfoInputs.cache
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\core.isqnet.awards.AssemblyInfo.cs
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\core.isqnet.awards.csproj.CoreCompileInputs.cache
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\core.isqnet.awards.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\ref\core.isqnet.awards.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\core.isqnet.awards.pdb
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\core.isqnet.awards.csproj.AssemblyReference.cache
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\model.isqnet.awards.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\model.isqnet.awards.pdb
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\core.isqnet.awards.csproj.CopyComplete

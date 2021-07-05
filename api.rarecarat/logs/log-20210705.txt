@@ -1,0 +1,6 @@
+2021-07-05T11:28:25.8158668-03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-07-05T11:28:25.8271633-03:00  [INF] Hosting environment: "Development" (c3307c92)
+2021-07-05T11:28:25.8295706-03:00  [INF] Content root path: "H:\work\rarecarat.new\api.rarecarat" (b5d60022)
+2021-07-05T11:28:48.1411944-03:00 80000066-0001-ff00-b63f-84710c7967bb [INF] Get Called (d8447ab1)
+2021-07-05T11:28:54.6758655-03:00 80000067-0001-ff00-b63f-84710c7967bb [INF] Post Called (f8496595)
+2021-07-05T11:28:58.8541708-03:00 80000068-0001-ff00-b63f-84710c7967bb [INF] Get Called (d8447ab1)

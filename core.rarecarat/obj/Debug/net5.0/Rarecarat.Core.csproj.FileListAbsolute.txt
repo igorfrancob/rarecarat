@@ -1,0 +1,12 @@
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\Rarecarat.Core.deps.json
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\Rarecarat.Core.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\ref\Rarecarat.Core.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\bin\Debug\net5.0\Rarecarat.Core.pdb
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\Rarecarat.Core.csproj.AssemblyReference.cache
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\Rarecarat.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\Rarecarat.Core.AssemblyInfoInputs.cache
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\Rarecarat.Core.AssemblyInfo.cs
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\Rarecarat.Core.csproj.CoreCompileInputs.cache
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\Rarecarat.Core.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\ref\Rarecarat.Core.dll
+H:\work\iesmanager-microservices\ISQNet.Awards\core.isqnet.awards\obj\Debug\net5.0\Rarecarat.Core.pdb

@@ -1,0 +1,9 @@
+H:\work\rarecarat\Rarecarat.Core\obj\Debug\netcoreapp2.1\Rarecarat.Core.csproj.CoreCompileInputs.cache
+H:\work\rarecarat\Rarecarat.Core\obj\Debug\netcoreapp2.1\Rarecarat.Core.AssemblyInfoInputs.cache
+H:\work\rarecarat\Rarecarat.Core\obj\Debug\netcoreapp2.1\Rarecarat.Core.AssemblyInfo.cs
+H:\work\rarecarat\Rarecarat.Core\bin\Debug\netcoreapp2.1\Rarecarat.Core.deps.json
+H:\work\rarecarat\Rarecarat.Core\bin\Debug\netcoreapp2.1\Rarecarat.Core.dll
+H:\work\rarecarat\Rarecarat.Core\bin\Debug\netcoreapp2.1\Rarecarat.Core.pdb
+H:\work\rarecarat\Rarecarat.Core\obj\Debug\netcoreapp2.1\Rarecarat.Core.dll
+H:\work\rarecarat\Rarecarat.Core\obj\Debug\netcoreapp2.1\Rarecarat.Core.pdb
+H:\work\rarecarat\Rarecarat.Core\obj\Debug\netcoreapp2.1\Rarecarat.Core.csprojAssemblyReference.cache
